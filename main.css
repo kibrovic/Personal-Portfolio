@@ -62,7 +62,7 @@ li{
 .container{
 	background: #4B4B4B;
 	margin-top: 1vh;
-	border-style: outset;
+	border-style: none;
 	border-radius: 10px;
 	border-color: #1E1E1E;
 }
@@ -89,7 +89,7 @@ img{
 
 .item{
 	margin: 0;
-	padding: 0;
+	padding: 5px;
 	text-align: center;
 }
 
